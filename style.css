@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0px;
+    display: grid;
+    background-color: rgb(128, 156, 156);
+    place-items: center;
+}
+.big-card {
+    aspect-ratio: 210/297;
+    height: 90vh;
+    position: absolute;
+    background-color: white;
+    transform: translateX(-50%) translateY(-50%);;
+    
+}
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
